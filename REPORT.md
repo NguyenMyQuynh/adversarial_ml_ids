@@ -11,10 +11,12 @@ Reporter:
 
 ## Kết quả bài báo tham khảo 
 *Hình 1. Hiệu suất model trên tập test không chứa AE*
+<br>
 <img src="img/1.png" width="500" alt="d"/>
 <br>
 </br>
 *Hình 2. So sánh hiệu suất model trên tập test chứa và không chứa AE*
+<br>
 <img src="img/2.png" width="500" alt="d"/>
 
 ## Kết quả của nhóm  
